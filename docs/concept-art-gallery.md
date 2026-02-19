@@ -84,19 +84,9 @@ Generated via Ideogram to explore rich material combinations (wood, brass, concr
 
 ---
 
-### Flow — Batch 1 (Gallery View)
+### Flow — Batch 1
 
-The Flow UI gallery view and final output from Batch 1.
-
-#### Gallery Views (UI Screenshots)
-| Top | Top (Alt) |
-|---|---|
-| ![Gallery Top](../concept/flow-batch1/oracle_flow_gallery_top_1771523094216.png) | ![Gallery Top Alt](../concept/flow-batch1/oracle_flow_gallery_top_1771523220610.png) |
-| ![Gallery Full 1](../concept/flow-batch1/oracle_flow_gallery_1771523178166.png) | ![Gallery Full 2](../concept/flow-batch1/oracle_flow_gallery_1771523199139.png) |
-| ![Gallery Bottom](../concept/flow-batch1/oracle_flow_gallery_bottom_1771523222897.png) | |
-
-#### Batch 1 — Final Export
-![Flow Batch 1 Final](../concept/flow-batch1/oracle_flow_batch1_done_1771524888110.png)
+![Flow Batch 1](../concept/flow-batch1/oracle_flow_batch1_done_1771524888110.png)
 
 ---
 
@@ -122,7 +112,7 @@ A dedicated material exploration batch, running all three form factors (Flat Pan
 | `I_want_the_..._g8oqf.mp4` | Google Flow (Video) | `reference/inspiration/` |
 | 9× Early form factor PNGs | AI Image Gen (in-session) | `concept/early-concepts/` |
 | `ideogram_concept_art_...webp` | Ideogram (in-session) | `concept/ideogram/` |
-| 6× Flow gallery/output PNGs | Google Flow Batch 1 | `concept/flow-batch1/` |
+| 1× Flow final export | Google Flow Batch 1 | `concept/flow-batch1/` |
 | 12× Material flow renders | Google Flow Batch 2 | `concept/flow-batch2/` |
 
-*Total: 57 visual assets across all sources.*
+*Total: 52 visual assets across all sources.*
